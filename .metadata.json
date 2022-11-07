@@ -2,5 +2,9 @@
   {
     "package": "MKdescr",
     "oncran": true
+  },
+  {
+    "package": "MKinfer",
+    "oncran": true
   }
 ]
