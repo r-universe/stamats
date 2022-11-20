@@ -6,5 +6,9 @@
   {
     "package": "MKinfer",
     "oncran": true
+  },
+  {
+    "package": "MKmisc",
+    "oncran": true
   }
 ]

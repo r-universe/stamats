@@ -13,3 +13,8 @@
 	url = https://github.com/stamats/mkinfer
 	shallow = true
 	registered = true
+[submodule "MKmisc"]
+	path = MKmisc
+	url = https://github.com/stamats/mkmisc
+	shallow = true
+	registered = true
