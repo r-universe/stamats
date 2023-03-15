@@ -1,5 +1,9 @@
 [
   {
+    "package": "MKclass",
+    "oncran": true
+  },
+  {
     "package": "MKdescr",
     "oncran": true
   },
@@ -9,6 +13,14 @@
   },
   {
     "package": "MKmisc",
+    "oncran": true
+  },
+  {
+    "package": "MKomics",
+    "oncran": true
+  },
+  {
+    "package": "MKpower",
     "oncran": true
   }
 ]
