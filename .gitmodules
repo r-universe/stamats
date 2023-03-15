@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MKdescr"]
-	path = MKdescr
-	url = https://github.com/stamats/mkdescr
+[submodule "MKmisc"]
+	path = MKmisc
+	url = https://github.com/stamats/mkmisc
 	shallow = true
 	registered = true
 [submodule "MKinfer"]
@@ -13,8 +13,8 @@
 	url = https://github.com/stamats/mkinfer
 	shallow = true
 	registered = true
-[submodule "MKmisc"]
-	path = MKmisc
-	url = https://github.com/stamats/mkmisc
+[submodule "MKdescr"]
+	path = MKdescr
+	url = https://github.com/stamats/mkdescr
 	shallow = true
 	registered = true
