@@ -1,6 +1,6 @@
 [
   {
-    "package": "MKmisc",
+    "package": "MKdescr",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "MKdescr",
+    "package": "MKmisc",
     "oncran": true
   }
 ]
