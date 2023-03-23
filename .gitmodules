@@ -33,3 +33,8 @@
 	url = https://github.com/stamats/mkpower
 	shallow = true
 	registered = true
+[submodule "RFLPtools"]
+	path = RFLPtools
+	url = https://github.com/cran/RFLPtools
+	shallow = true
+	registered = true
