@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MKclass"]
 	path = MKclass
 	url = https://github.com/stamats/mkclass
-	shallow = true
-	registered = true
 [submodule "MKdescr"]
 	path = MKdescr
 	url = https://github.com/stamats/mkdescr
-	shallow = true
-	registered = true
 [submodule "MKinfer"]
 	path = MKinfer
 	url = https://github.com/stamats/mkinfer
-	shallow = true
-	registered = true
 [submodule "MKmisc"]
 	path = MKmisc
 	url = https://github.com/stamats/mkmisc
-	shallow = true
-	registered = true
 [submodule "MKomics"]
 	path = MKomics
 	url = https://github.com/stamats/mkomics
-	shallow = true
-	registered = true
 [submodule "MKpower"]
 	path = MKpower
 	url = https://github.com/stamats/mkpower
-	shallow = true
-	registered = true
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
-	shallow = true
-	registered = true
